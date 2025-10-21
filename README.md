@@ -28,8 +28,4 @@
 
 ## 🌍 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kuhu_Jayaswal-blue?logo=linkedin)](https://www.linkedin.com/in/kuhu-jayaswal/)  
-📧 [kjayaswal@olin.edu](mailto:kjayaswal@olin.edu)
 
----
-
-> “Engineering isn’t just solving problems — it’s designing solutions that matter.”
