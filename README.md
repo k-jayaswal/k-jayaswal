@@ -12,7 +12,7 @@
 ---
 
 ## 💻 Technical Stack
-**Hardware:** KiCad, Embedded Systems (Raspberry Pi, Arduino Nano, Atmega, Curiosity Dev Board), Soldering  
+**Hardware:** KiCad, Embedded Systems (Raspberry Pi, Arduino, Atmega, STM32, Curiosity Dev Board), Soldering  
 **Programming:** Python, C++, C, MATLAB, HTML, SQL, SystemVerilog  
 **Tools:** SolidWorks, Autodesk Inventor, MPLAB X IDE, SQL Server Management Studio, PostgreSQL  
 **Shop Skills:** Wood & Metal Lathe, Plasma Cutter, Laser Cutter, 3D & Resin Printing  
